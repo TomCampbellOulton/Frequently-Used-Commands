@@ -1,0 +1,1 @@
+py -VersionNumber -m pip install PackageName
